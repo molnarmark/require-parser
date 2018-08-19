@@ -1,0 +1,19 @@
+{
+  "name": "require-parser",
+  "version": "0.1.0",
+  "description": "A tiny, zero dependency ES5 require parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "require",
+    "require-parser",
+    "parser",
+    "module",
+    "require",
+    "module"
+  ],
+  "author": "Mark Molnar <molnarpw@gmail.com>",
+  "license": "MIT"
+}
